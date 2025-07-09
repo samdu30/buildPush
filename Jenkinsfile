@@ -22,9 +22,4 @@ node {
               img.push()
           }
     }
-   stage('compuse_up') {
-      sh 'docker compose up --detach '
-       sh 'docker-compose up -d'
-    }
-
 }
