@@ -4,4 +4,4 @@ services:
    container_name: from_jenkinsWeb00
   web1:
    image: nginx:latest
-   container_name: from_jenkinsWeb01
+   container_name: 
