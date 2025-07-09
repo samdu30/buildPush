@@ -1,7 +1,7 @@
 node {
    
    def PROJECT="quenec"
-   def IMAGE="$PROJECT/app:8.6"
+   def IMAGE="$PROJECT/form_jenkins:8.6"
    
     stage('Clone') {
           checkout scm
