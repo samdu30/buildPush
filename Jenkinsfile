@@ -1,6 +1,6 @@
 node {
    
-   def PROJECT="quenec"
+   def PROJECT="samyatoonext"
    def IMAGE="$PROJECT/form_jenkins:8.6"
    
     stage('Clone') {
