@@ -1,0 +1,7 @@
+services:
+  web0:
+   image: nginx:latest
+   container_name: from_jenkinsWeb00
+  web1:
+   image: nginx:latest
+   container_name: from_jenkinsWeb01
